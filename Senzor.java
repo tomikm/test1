@@ -5,15 +5,7 @@ import net.useobjects.draw.drawable.GroupView;
 import net.useobjects.geom.Position;
 import net.useobjects.timer.SimpleTimer;
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
-/**
- *
- * @author Martin
- */
 public class Senzor {
     private CircleView senzor;
     boolean aktiv = false;
