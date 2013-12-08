@@ -1,11 +1,10 @@
-
 import java.awt.Color;
 import net.useobjects.draw.drawable.CircleView;
 import net.useobjects.draw.drawable.GroupView;
 import net.useobjects.geom.Position;
 import net.useobjects.timer.SimpleTimer;
 
-
+int FINAL pocet = 0;
 public class Senzor {
     private CircleView senzor;
     boolean aktiv = false;
