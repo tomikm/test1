@@ -9,6 +9,7 @@ public class Senzor {
     private CircleView senzor;
     boolean aktiv = false;
     
+
     
     public Senzor(GroupView group,int x, int y){
         
