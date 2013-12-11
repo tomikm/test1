@@ -1,3 +1,4 @@
+/*  lpl*/
 import java.awt.Color;
 import net.useobjects.draw.drawable.CircleView;
 import net.useobjects.draw.drawable.GroupView;
